@@ -6,7 +6,11 @@
 
 📫 I was log out of my old account : https://github.com/The-Young-Programmer/
 
-⚡ So this account is my new account
+⚡ So this account is my new account, but don't worry I will get back my old account soon.
+
+👌 I will dedicate this account in teaching programming languages and career path
+
+🙏 kindly follow and give a star
 
 
 <!--
