@@ -23,3 +23,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
+
+
+
+### My Website : <a href="https://the-young-programer.github.io/The-Young-Programer/"> here </a>
+
+### MY Portfolio: <a href="https://nemonet-profile.netlify.app/"> here </a>
+
+
+
