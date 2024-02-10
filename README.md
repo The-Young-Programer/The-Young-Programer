@@ -26,9 +26,9 @@
 
 
 
-### My Website : <a href="https://the-young-programer.github.io/The-Young-Programer/"> here </a>
+### My Website : <a href="https://the-young-programer.github.io/The-Young-Programer/" target="_blank"> here </a>
 
-### MY Portfolio: <a href="https://nemonet-profile.netlify.app/"> here </a>
+### MY Portfolio: <a href="https://nemonet-profile.netlify.app/" target="_blank"> here </a>
 
 
 
