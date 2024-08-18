@@ -1,4 +1,6 @@
-### Hi there 👋
+<details> 
+  <summary  align="center"><h2>🏷️ Important Note 🏷️</h2></summary>
+   <h3> Hi there 👋 </h3>
 
 <!--
 **The-Young-Programer/The-Young-Programer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +33,11 @@
 ### 😌 MY Portfolio: <a href="https://nemonet-profile.netlify.app/" target="blank"> here </a>
 
 ### 🌟 Don't forget to follow and give a star
+  
+</details>
+
+
+
 
 <hr><br>
 
