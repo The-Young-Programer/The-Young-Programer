@@ -1,5 +1,5 @@
 <details> 
-  <summary  align="center"><h2>🏷️ Important Note 🏷️</h2></summary>
+  <summary  align="center" color="red"><h2>🏷️ Important Note 🏷️</h2></summary>
    <h3> Hi there 👋 </h3>
 
 <!--
@@ -46,16 +46,28 @@
 <!-- ###### HEAD ##### -->
 
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+
+<!-- ###### SOCIAL MEDIA LINKS ##### -->
+
+<p align="center">
+ <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
+ <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
+ <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
+ <a href="mailto:the-young-ptogrammer-team@gmail.com" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
+</p>
+
+<!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
 
 
 <p align="center">
-<a href="https://nemonet-profile.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+<a href="https://nemonet-profile.netlify.app" target="_blank"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
  <p align="center">
-  <a href="https://the-young-programer.github.io/The-Young-programer/"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
-  <a href="https://the-young-programer.github.io/The-Young-programer/"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
-  <a href="https://the-young-programer.github.io/The-Young-programer/"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
+  <a href="https://the-young-programer.github.io/The-Young-Programer/" target="_blank"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white"/></a>
+  <a href="https://the-young-programer.github.io/The-Young-Programer/" target="_blank"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/></a>
+  <a href="https://www.torproject.org/download/" target="_blank"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
   </p>
 
   
@@ -173,14 +185,14 @@
   <br/>
 
   <p align="left">
-  <a href="https://github.com/The-Young-programer/Math-Quize">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
-  <a href="https://github.com/The-Young-programer/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
-  <a href="https://github.com/The-Young-programer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
-  <a href="https://github.com/The-Young-programer/QBasic">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
+  <a href="https://github.com/The-Young-programmer/Math-Quize">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+  <a href="https://github.com/The-Young-programmer/Hangman-Game">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
+  <a href="https://github.com/The-Young-programmer/C-CPP-Programming-Project">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
+  <a href="https://github.com/The-Young-programmer/QBasic">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
   
   </p>
 
@@ -231,24 +243,6 @@
 
 
 
-<!-- ###### SOCIAL MEDIA LINKS ##### -->
-
-<h4 align="center">
- 
-<img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center"> Contact <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" align="center">
-</h4>
-
-<p align="center">
-
- <a href="https://www.instagram.com/t_nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/instagram-512.png" width="35"/></a>
- <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
- <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
- <a href="#" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
-
-</p>
-
-<!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
-
 
 
 
@@ -262,7 +256,7 @@
 
 
 
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
