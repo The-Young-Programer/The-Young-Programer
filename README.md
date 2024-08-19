@@ -56,6 +56,7 @@
  <a href="https://www.linkedin.com/in/typ-nemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/linkedin-512.png" width="35" /></a>
  <a href="https://twitter.com/tnemonet" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/twitter-512.png" width="35" /></a>
  <a href="mailto:the-young-ptogrammer-team@gmail.com" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/gmail-logo-512.png" width="35"/></a>
+ <a href="https://wa.me/" target="_blank" rel="noreferrer"><img src="Images/readme icon/gradient/whatsapp.png" width="35"/></a>
 </p>
 
 <!-- ###### END OF SOCIAL MEDIA LINKS ##### -->
@@ -95,7 +96,7 @@
 
 <br />
 <h4 align="center"><br>
-  <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/> Languages | Tools <img width="30" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"  align="center"/>
+👨‍💻 Languages | Framework | Tools 👨‍💻
  </h4>
  
 <code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
@@ -115,23 +116,24 @@
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
-
-
-<!-- ##### WILL WORK ON THIS LATER ##### -->
-
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/></code>-->
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/></code>-->
-<!--<code><img src="imgs/c.png" width="30"/></code>-->
-<!--<code><img src="imgs/jquery.png" width="30"/></code>-->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="30" height="30" alt="Angular" /></code>--> 
-<!--<code><img src="imgs/django.png" width="30"/></code>-->
-<!--<code><img src="imgs/flask.png" width="30"/></code>-->
-<!--<code><img src="imgs/perl.png" width="30"/></code>-->
+<code><img src="Images/readme icon/gradient/html.png" width="30"/></code>
+<code><img src="Images/readme icon/gradient/css.png" width="30"/></code>
+<code><img src="Images/readme icon/gradient/c.png" width="30"/></code>
+<code><img src="Images/readme icon/gradient/angular.png" width="30" height="30" alt="Angular" /></code>
+<code><img src="Images/readme icon/gradient/django.png" width="30"/></code>
+<code><img src="Images/readme icon/gradient/flask.png" width="30"/></code>
 <!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/></code>-->
 <!--<code><img src="imgs/asm.png" width="30"/></code>-->
 <!--<code><img src="imgs/github.png" width="30"/></code>-->
 <!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></code>-->
 <!--<code><img src="imgs/blogger.png" width="30"/></code>-->
+
+
+<!-- ##### WILL WORK ON THIS LATER ##### -->
+
+
+<!--<code><img src="imgs/jquery.png" width="30"/></code>-->
+<!--<code><img src="imgs/perl.png" width="30"/></code>-->
 <!--<code><img src="imgs/wix.png" width="30"/></code>-->
 <!--<code><img src="imgs/wordpress.png" width="30"/></code>-->
 <!--<code><img src="imgs/andriod_studio.png" width="30"/></code>-->
