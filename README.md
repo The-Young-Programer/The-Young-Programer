@@ -75,7 +75,7 @@
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=The-Young-programer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-programer" /> <img src="https://img.shields.io/github/followers/The-Young-programer?label=Followers&style=flat&color=0e75b6" alt="The Young programer"/>
  <a href="https://github.com/The-Young-programer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/The-Young-programer"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/The-Young-Programer"/></a>
  <a href="mailto:the.young.programmer.team@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
