@@ -9,31 +9,19 @@
 **The-Young-Programer/The-Young-Programer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-📫 I was log out of my old account : https://github.com/The-Young-programmer/
+📫 I was log out of my old account : https://github.com/The-Young-programmer/, will be deleting it very soon
 
-⚡ So this account is my new account, but don't worry I will get back my old account soon.
+⚡ So this account is my new account <a href="https://github.com/The-Young-programer/" target="blank">here</a>
 
-👌 I will dedicate this account in teaching programming languages and career path
+👌 I will dedicate this account in teaching programming languages and career path, <a href="https://github.com/Team-TYP-new" target="blank">here</a>
 
 🙏 kindly follow and give a star
 
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
 <hr><br>
 
 
 ### 💫 My Website : <a href="https://the-young-programer.github.io/The-Young-Programer/" target="blank"> here </a>
-
-### 😌 MY Portfolio: <a href="https://nemonet-profile.netlify.app/" target="blank"> here </a>
 
 ### 🌟 Don't forget to follow and give a star
   
@@ -95,15 +83,20 @@
 
 
 
-
 <!-- ###### Languages | Tools ##### -->
 
 <br />
 <h4 align="center"><br>
 👨‍💻 Languages | Framework | Tools 👨‍💻
  </h4>
- 
-<code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
+
+  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; border: 1px solid #ddd;">
+        
+     
+  <tbody>
+            <tr>
+             <td style="padding: 10px; border: 1px solid #ddd;">
+   <code><img src="Images/readme icon/gradient/javascript-512.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/c-plus-plus.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/react-native-512.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/python-512.png" width="35"/></code>
@@ -111,52 +104,62 @@
 <code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="30" height="30" alt="Kotlin" /></code>
 <code><img src="Images/readme icon/gradient/php.png" width="35"/></code>
 <code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
-<code><img src="Images/readme icon/gradient/arduino-512.png" width="35"/></code>
-<code><img src="Images/readme icon/non gradient/kali.jpeg" width="30"/></code>
-<code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
-<code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
-<code><img src="Images/readme icon/gradient/html.png" width="30"/></code>
-<code><img src="Images/readme icon/gradient/css.png" width="30"/></code>
 <code><img src="Images/readme icon/gradient/c.png" width="30"/></code>
+<code><img src="Images/readme icon/gradient/html.png" width="30"/></code><br>
+<code><img src="Images/readme icon/gradient/css.png" width="30"/></code>
 <code><img src="Images/readme icon/gradient/angular.png" width="30" height="30" alt="Angular" /></code>
 <code><img src="Images/readme icon/gradient/django.png" width="30"/></code>
 <code><img src="Images/readme icon/gradient/flask.png" width="30"/></code>
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/></code>-->
-<!--<code><img src="imgs/asm.png" width="30"/></code>-->
-<!--<code><img src="imgs/github.png" width="30"/></code>-->
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></code>-->
-<!--<code><img src="imgs/blogger.png" width="30"/></code>-->
+<!--<code><img src="imgs/jquery.png" width="30"/></code>
+<code><img src="imgs/perl.png" width="30"/></code>-->
+<code><img src="Images/readme icon/gradient/arduino-512.png" width="35"/></code>
+ <code><img src="Images/readme icon/gradient/cs.png" width="35"/></code>
+<code><img src="Images/readme icon/gradient/swift-512.png" width="35" alt="Swift" /></code>
+<code><img src="Images/readme icon/gradient/ruby-512.png" width="35" alt="Ruby" /></code><br>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
+  
+  </td>
+            </tr>
+           
+   <tr>
+               <td style="padding: 10px; border: 1px solid #ddd;">
 
+  <code><img src="Images/readme icon/gradient/sql.png" width="35"/></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="PostgreSQL" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="30" height="30" alt="Oracle" /></code>
+                  
+  </td>
+            </tr>
+            <tr>
+               
+   <td style="padding: 10px; border: 1px solid #ddd;">
 
-<!-- ##### WILL WORK ON THIS LATER ##### -->
-
-
-<!--<code><img src="imgs/jquery.png" width="30"/></code>-->
-<!--<code><img src="imgs/perl.png" width="30"/></code>-->
-<!--<code><img src="imgs/wix.png" width="30"/></code>-->
-<!--<code><img src="imgs/wordpress.png" width="30"/></code>-->
-<!--<code><img src="imgs/andriod_studio.png" width="30"/></code>-->
-<!--<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/></code>-->
-<!--<code><img src="imgs/rasberry_pi.png" width="30"/></code>-->
-<!--<code><img src="imgs/power_shell.png" width="30"/></code>-->
-<!--<code><img src="imgs/bash.png" width="30"/></code>-->
-<!--<code><img src="imgs/terminal.png" width="30"/></code>-->
-<!--<code><img src="imgs/android_os.png" width="30"/></code>-->
-<!--<code><img src="imgs/tails.png" width="30" height=" "/></code>-->
-<!--<code><img src="imgs/windows_os.png" width="30"/></code>-->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="30" height="30" alt="Oracle" /></code>-->
-<!---->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="30" height="30" alt="After Effects" /></code>-->
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="30" height="30" alt="XD" /></code>-->
-<!--<code><img src="https://i.ibb.co/QFV1v2v/kisspng-markdown-text-editor-html-github-5adb9822124578-5281760315243407700749.png" alt="marksdown" height="30" width="30" border="0"></code>-->
-
-<!-- ###### END OF Languages | Tools ##### -->
-
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="NodeJS" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="30" height="30" alt="Flutter" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="30" height="30" alt="Sass" /></code>
+<code><img src="Images/readme icon/gradient/figma-512.png" width="35" alt="Figma" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="30" alt="Photoshop" /></code>
+<code><img src="Images/readme icon/gradient/linux--v2.png"  width="35"/></code>
+<code><img src="Images/readme icon/non gradient/kali.jpeg" width="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30"/></code><br>
+<!--<code><img src="imgs/andriod_studio.png" width="30"/></code>
+<code><img src="imgs/rasberry_pi.png" width="30"/></code>
+<code><img src="imgs/power_shell.png" width="30"/></code>
+<code><img src="imgs/bash.png" width="30"/></code>
+<code><img src="imgs/terminal.png" width="30"/></code>
+<code><img src="imgs/windows_os.png" width="30"/></code>-->
+<code><img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="30" height="30" alt="Webpack" /></code><br>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/npm-colored.svg" width="30" height="30" alt="NPM" /></code>
+<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>
+                  
+  </td>
+            </tr>
+           
+  </tbody>
+    </table>
 
 
 <!-- ###### Currently Learning ##### -->
@@ -165,17 +168,36 @@
 📖 Currently Learning 📖 
  </h4>
 
+  <table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd;">
+        
+   <tbody>
+            <tr>
+            <td style="padding: 10px; border: 1px solid #ddd;">
 
-<code><img src="Images/readme icon/gradient/cs.png" width="35"/></code>
-<code><img src="Images/readme icon/gradient/swift-512.png" width="35" alt="Swift" /></code>
-<code><img src="Images/readme icon/gradient/ruby-512.png" width="35" alt="Ruby" /></code>
-<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></code>
+The Better Version of Myself
+              
+  </td>
+            </tr>
+           <!-- <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Frameworks</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">Next.js</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Databases</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">PostgreSQL</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Tools</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">Docker</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Others</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">Server-Side Rendering (SSR), Advanced Security Practices</td>
+            </tr>-->
+        </tbody>
+    </table>
+</body>
 
-
-
-<!--<code><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></code>-->
-
-<br />
 
 
 <!-- ###### END OF Currently Learning ##### -->
