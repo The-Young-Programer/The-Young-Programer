@@ -9,7 +9,7 @@
 **The-Young-Programer/The-Young-Programer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-📫 I was log out of my old account : https://github.com/The-Young-programmer/, will be deleting it very soon
+📫 I was log out of my old account : https://github.com/The-Young-programmer/, will be getting it back very soon
 
 ⚡ So this account is my new account <a href="https://github.com/The-Young-programer/" target="blank">here</a>
 
