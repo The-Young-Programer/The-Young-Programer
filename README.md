@@ -62,18 +62,19 @@
   <a href="https://www.torproject.org/download/" target="_blank"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=flat&logo=Tor-Browser&logoColor=white"/></a>
   </p>-->
 
+
   
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=The-Young-Programer&label=Visitors&color=0e75b6&style=flat" alt="The-Young-Programer" /> <img src="https://img.shields.io/github/followers/The-Young-Programer?label=Followers&style=flat&color=0e75b6" alt="The Young Programer"/>
-<a href="https://github.com/The-Young-Programer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/The-Young-Programer"/></a>
+<a href="https://github.com/The-Young-Programmer?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/The-Young-Programmer"/></a>
  <a href="mailto:the.young.programmer.team@gmail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
   </p>
 
   <p align="center">
-  <a href="https://github.com/The-Young-programer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/The-Young-programer"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;🌐%20Dynamic%20Web%20Designer;👨‍💻%20Fullstack%20Web%20Developer;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%206%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
  <div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="center"> 
@@ -217,17 +218,17 @@ cen       <tr>
 
   <p align="left">
   <a href="https://github.com/The-Young-programmer/Math-Quize">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Math-Quize&theme=transparent&bg_color=0D1117" alt="Math-Quize"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Math-Quize&theme=transparent" alt="Math-Quize"></a>
   <a href="https://github.com/The-Young-programmer/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Hangman-Game&theme=transparent&bg_color=0D1117" alt="Hangman-Game"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Hangman-Game&theme=transparent" alt="Hangman-Game"></a>
   <a href="https://github.com/The-Young-programmer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=C-CPP-Programming&theme=transparent&bg_color=0D1117" alt="C/C++"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=C-CPP-Programming&theme=transparent" alt="C/C++"></a>
   <a href="https://github.com/The-Young-programmer/QBasic">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=QBasic&theme=transparent&bg_color=0D1117" alt="QBasic"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=QBasic&theme=transparent" alt="QBasic"></a>
   <a href="https://github.com/The-Young-programer/TUTORIAL_HTML-CSS">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=TUTORIAL_HTML-CSS&theme=transparent&bg_color=0D1117" alt="TUTORIAL_HTML-CSS"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=TUTORIAL_HTML-CSS&theme=transparent" alt="TUTORIAL_HTML-CSS"></a>
     <a href="https://github.com/The-Young-programer/FlutterScreens">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=FlutterScreens&theme=transparent&bg_color=0D1117" alt="FlutterScreens"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=FlutterScreens&theme=transparent" alt="FlutterScreens"></a>
     
   </p>
 
@@ -253,9 +254,9 @@ cen       <tr>
 
  
  <div align="center">
-<a href="http://www.github.com/The-Young-programer"><img width="39.5%" height="auto" src="https://github-stats-extended.vercel.app/api?username=The-Young-programer&count_private=true&bg_color=0D1117&theme=transparent&hide_border=false&show_icons=true" alt="The-Young-programer's GitHub stats"/></a>
-<a href="http://www.github.com/The-Young-programmer"><img alt="TYP Top Language" width="29.5%" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Young-programmer&langs_count=6&count_private=true&layout=donut&theme=transparent&hide_border=false&bg_color=0D1117"/></a>
-<a href="http://www.github.com/The-Young-programer"><img alt="TYP Top Language" width="29.5%" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Young-programer&langs_count=6&count_private=true&layout=donut&theme=transparent&hide_border=false&bg_color=0D1117"/></a>
+<a href="http://www.github.com/The-Young-programer"><img width="39.5%" height="auto" src="https://github-stats-extended.vercel.app/api?username=The-Young-programer&count_private=true&theme=transparent&hide_border=false&show_icons=true" alt="The-Young-programer's GitHub stats"/></a>
+<a href="http://www.github.com/The-Young-programmer"><img alt="TYP Top Language" width="29.5%" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Young-programmer&langs_count=6&count_private=true&layout=donut&theme=transparent&hide_border=false"/></a>
+<a href="http://www.github.com/The-Young-programer"><img alt="TYP Top Language" width="29.5%" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Young-programer&langs_count=6&count_private=true&layout=donut&theme=transparent&hide_border=false"/></a>
 <a href="http://www.github.com/The-Young-programer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-programer&show_icons=true&count_private=true&theme=transparent&hide_border=false&bg_color=0D1117" width = "100%" height="auto"/></a>
 </div>
 
