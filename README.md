@@ -217,14 +217,18 @@ cen       <tr>
 
   <p align="left">
   <a href="https://github.com/The-Young-programmer/Math-Quize">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Math-Quize&theme=react&bg_color=0D1117" alt="Math-Quize"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Math-Quize&theme=transparent&bg_color=0D1117" alt="Math-Quize"></a>
   <a href="https://github.com/The-Young-programmer/Hangman-Game">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Hangman-Game&theme=react&bg_color=0D1117" alt="Hangman-Game"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=Hangman-Game&theme=transparent&bg_color=0D1117" alt="Hangman-Game"></a>
   <a href="https://github.com/The-Young-programmer/C-CPP-Programming-Project">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=C-CPP-Programming&theme=react&bg_color=0D1117" alt="C/C++"></a>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=C-CPP-Programming&theme=transparent&bg_color=0D1117" alt="C/C++"></a>
   <a href="https://github.com/The-Young-programmer/QBasic">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=QBasic&theme=react&bg_color=0D1117" alt="QBasic"></a>
-  
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programmer&repo=QBasic&theme=transparent&bg_color=0D1117" alt="QBasic"></a>
+  <a href="https://github.com/The-Young-programer/TUTORIAL_HTML-CSS">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=TUTORIAL_HTML-CSS&theme=transparent&bg_color=0D1117" alt="TUTORIAL_HTML-CSS"></a>
+    <a href="https://github.com/The-Young-programer/FlutterScreens">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=The-Young-programer&repo=FlutterScreens&theme=transparent&bg_color=0D1117" alt="FlutterScreens"></a>
+    
   </p>
 
  <p align="left">
@@ -246,11 +250,13 @@ cen       <tr>
   
  <!--<h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>-->
 
+
  
  <div align="center">
-<a href="http://www.github.com/The-Young-programer"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=The-Young-programer&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-programer's GitHub stats"/></a>
-<a href="http://www.github.com/The-Young-programer"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Young-programer&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/The-Young-programer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-programer&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/The-Young-programer"><img width="39.5%" height="auto" src="https://github-stats-extended.vercel.app/api?username=The-Young-programer&count_private=true&bg_color=0D1117&theme=transparent&hide_border=false&show_icons=true" alt="The-Young-programer's GitHub stats"/></a>
+<a href="http://www.github.com/The-Young-programmer"><img alt="TYP Top Language" width="29.5%" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Young-programmer&langs_count=6&count_private=true&layout=donut&theme=transparent&hide_border=false&bg_color=0D1117"/></a>
+<a href="http://www.github.com/The-Young-programer"><img alt="TYP Top Language" width="29.5%" height="auto" src="https://github-stats-extended.vercel.app/api/top-langs/?username=The-Young-programer&langs_count=6&count_private=true&layout=donut&theme=transparent&hide_border=false&bg_color=0D1117"/></a>
+<a href="http://www.github.com/The-Young-programer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Young-programer&show_icons=true&count_private=true&theme=transparent&hide_border=false&bg_color=0D1117" width = "100%" height="auto"/></a>
 </div>
 
 </details>
